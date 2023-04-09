@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "SignUp";
+}
+<!-- Font Icon -->
+<link rel="stylesheet" href="~/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+<!-- Main css -->
+<link rel="stylesheet" href="~/css/style2.css">
+
+
+
+
+<section class="signup" style="margin-top: -45px;">
+    <!-- <img src="images/signup-bg.jpg" alt=""> -->
+    <div class="container">
+        <div class="signup-content">
+            <form method="post" id="signup-form" class="signup-form">
+                <h2 class="form-title">Create account</h2>
+                <div class="form-group">
+                    <input type="text" class="form-input" name="UserName" id="name" placeholder="Username" required/>
+                </div>
+                <div class="form-group">
+                    <input type="email" class="form-input" name="Email" id="email" placeholder="Email" required />
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-input" name="Password" id="password" placeholder="Password" required />
+                    <span toggle="#password" class="zmdi zmdi-eye-off field-icon toggle-password"></span>
+                </div>
+                <div class="form-group">
+                    <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" required/>
+                    <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
+                </div>
+                <div class="form-group">
+                    <input type="submit" name="submit" id="submit" class="form-submit" value="Sign up"/>
+                </div>
+            </form>
+            <p class="loginhere">
+                Have already an account ? <a asp-action="Login" class="loginhere-link">Login here</a>
+            </p>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- JS -->
+<script src="~/vendor/jquery/jquery.min.js"></script>
+<script src="~/js/main.js"></script>

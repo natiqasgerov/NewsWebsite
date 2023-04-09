@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!-- Font Icon -->
+<link rel="stylesheet" href="~/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+<!-- Main css -->
+<link rel="stylesheet" href="~/css/style2.css">
+
+
+<div class="main">
+
+    <section class="signup">
+        <div class="container">
+            <div class="signup-content">
+                <form method="POST" id="signup-form" class="signup-form">
+                    <h2 class="form-title">Login account</h2>
+                    <div class="form-group">
+                        <input required type="text" class="form-input" name="name" id="name" placeholder="Username" />
+                    </div>
+
+                    <div class="form-group">
+                        <input required type="password" class="form-input" name="password" id="password" placeholder="Password" />
+                        <span toggle="#password" class="zmdi zmdi-eye-off field-icon toggle-password"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" name="submit" id="submit" class="form-submit" value="Sign in" />
+                    </div>
+                </form>
+                <p class="loginhere">
+                    Don't Have an Account ? <a asp-action="SignUp" class="loginhere-link">Register here</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<script src="~/vendor/jquery/jquery.min.js"></script>
+<script src="~/js/main.js"></script>

@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NewsWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewsWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\colors.css",
+      "PackagePath": "staticwebassets\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\style2.css",
+      "PackagePath": "staticwebassets\\css\\style2.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\css\\version\\tech.css",
+      "PackagePath": "staticwebassets\\css\\version\\tech.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\montserrat-v12-latin-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\montserrat-v12-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\montserrat-v12-latin-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\montserrat-v12-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\montserrat-v12-latin-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\montserrat-v12-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\montserrat-v12-latin-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\montserrat-v12-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\fonts\\montserrat\\montserrat-v12-latin-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\montserrat-v12-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\ads-bg.png",
+      "PackagePath": "staticwebassets\\images\\ads-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\checked.gif",
+      "PackagePath": "staticwebassets\\images\\checked.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\footer.png",
+      "PackagePath": "staticwebassets\\images\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\hover.png",
+      "PackagePath": "staticwebassets\\images\\hover.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\menubg.jpg",
+      "PackagePath": "staticwebassets\\images\\menubg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\version\\tech-footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\version\\tech-footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\version\\tech-logo.png",
+      "PackagePath": "staticwebassets\\images\\version\\tech-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\images\\videohover.png",
+      "PackagePath": "staticwebassets\\images\\videohover.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\js\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\author.jpg",
+      "PackagePath": "staticwebassets\\upload\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\author_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\author_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\author_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\author_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\avatar.jpg",
+      "PackagePath": "staticwebassets\\upload\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\banner_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\banner_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\banner_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\banner_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\banner_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\banner_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\banner_07.jpg",
+      "PackagePath": "staticwebassets\\upload\\banner_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\repository_icon.png",
+      "PackagePath": "staticwebassets\\upload\\repository_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_05.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_06.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_07.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_08.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_09.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_blog_10.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_blog_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_04.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_05.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_06.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_07.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_08.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_09.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_10.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_11.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_12.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_13.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_14.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_15.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_16.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_17.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_18.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_19.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_menu_20.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_menu_20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_video_01.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_video_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_video_02.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_video_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\upload\\tech_video_03.jpg",
+      "PackagePath": "staticwebassets\\upload\\tech_video_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\NewsWebsite\\NewsWebsite\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NewsWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NewsWebsite.props",
+      "PackagePath": "build\\NewsWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NewsWebsite.props",
+      "PackagePath": "buildMultiTargeting\\NewsWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NewsWebsite.props",
+      "PackagePath": "buildTransitive\\NewsWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Single";
+    var myItem = ViewBag.Selected as Blog;
+}
+@model NewsWebsite.Models.Blog
+
+<section class="section single-wrapper" style="margin-left: 160px;margin-top:-50px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+                <div class="page-wrapper">
+                    <div class="blog-title-area text-center">
+                        <ol class="breadcrumb hidden-xs-down">
+                            <li class="breadcrumb-item"><a asp-action="Index">Home</a></li>
+                            <li class="breadcrumb-item active">@myItem.Title</li>
+                        </ol>
+
+                        <span class="color-orange"><a title="">@myItem.Category</a></span>
+
+                        <h3>@myItem.Title</h3>
+
+                        <div class="blog-meta big-meta">
+                            <small>@myItem.Time</small>
+                            <small> by @myItem.By</small>
+                            <small><i class="fa fa-eye"></i> 2344</small>
+                        </div><!-- end meta -->
+
+
+                    </div><!-- end title -->
+
+                    <div class="single-post-media" >
+                        <img src="@myItem.Image" alt="" class="img-fluid">
+                    </div><!-- end media -->
+
+                    <div class="blog-content">
+                        <div class="pp">
+                            <p>@myItem.Subject</p>
+
+
+
+                        </div><!-- end pp -->
+
+
+
+
+                    </div><!-- end content -->
+
+                    <div class="blog-title-area">
+
+
+                        <div class="post-sharing">
+                            <ul class="list-inline">
+                                <li><a href="https://www.facebook.com/" target="_blank" class="fb-button btn btn-primary"><i class="fa fa-facebook"></i> <span class="down-mobile">Share on Facebook</span></a></li>
+                                <li><a href="https://www.twitter.com/" target="_blank" class="tw-button btn btn-primary"><i class="fa fa-twitter"></i> <span class="down-mobile">Tweet on Twitter</span></a></li>
+                                <li><a href="https://www.google.com/" target="_blank" class="gp-button btn btn-primary"><i class="fa fa-google-plus"></i></a></li>
+                            </ul>
+                        </div><!-- end post-sharing -->
+                    </div><!-- end title -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div><!-- end page-wrapper -->
+            </div><!-- end col -->
+
+
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+

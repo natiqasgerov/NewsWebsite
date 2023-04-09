@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model PaginationViewModel<Blog>
+@using NewsWebsite.Controllers
+
+<section class="section first-section">
+    <div class="container-fluid">
+
+        <div class="masonry-blog clearfix" style="width: 140%">
+
+
+            @{
+                var blogs = NewsController.context.Blogs.ToList();
+                for (int i = 0; i < 3; i++)
+                {
+                    var item = blogs[i];
+
+                    <div class="second-slot">
+                        <div class="masonry-box post-media">
+                            <img src="@item.Image" alt="" class="img-fluid" style="height: 320px;">
+                            <div class="shadoweffect">
+                                <div class="shadow-desc">
+                                    <div class="blog-meta">
+                                        <span class="bg-orange">@item.Category</span>
+                                        <h4><a asp-action="Single" asp-route-id="@item.Id" title="">@item.Title</a></h4>
+                                        <small><a>@item.Time.Substring(0,11)</a></small>
+                                        <small><a>by @item.By</a></small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+
+
+
+
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container" style="margin-left: 170px">
+        <div class="row">
+            <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+                <div class="page-wrapper">
+                    <div class="blog-top clearfix">
+                        <h4 class="pull-left">Recent News <a href="#"><i class="fa fa-rss"></i></a></h4>
+                    </div>
+
+                    <div class="blog-list clearfix">
+
+
+                        @{
+                            var blogList = NewsController.context.Blogs.ToList();
+                            foreach (var item in Model.Items)
+                            {
+
+                                <div class="blog-box row">
+                                    <div class="col-md-4">
+                                        <div class="post-media">
+                                            <img src=@item.Image alt="" class="img-fluid">
+                                            <div class="hovereffect"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="blog-meta big-meta col-md-8">
+                                        <h4><a asp-action="Single" asp-route-id="@item.Id" title="">@item.Title</a></h4>
+                                        <p>@item.Subject</p>
+                                        <small class="firstsmall"><a class="bg-orange" title="">@item.Category</a></small>
+                                        <small>@item.Time</small>
+                                        <small>by @item.By</small>
+                                        <small><i class="fa fa-eye"></i> 2214</small>
+                                    </div>
+                                </div>
+
+                                <hr class="invis">
+                            }
+                        }
+
+                    </div>
+                </div>
+
+                <hr class="invis">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <nav aria-label="Page navigation">
+                            <ul class="pagination justify-content-start">
+                                @for (int i = 1; i <= Model.TotalPages; i++)
+                                {
+                                    if (@i == Model.Page)
+                                    {
+                                        <li class="page-item">
+                                            <span class="page-link">
+                                                @i
+                                            </span>
+                                        </li>
+                                    }
+                                    else
+                                    {
+                                        <li class="page-item">
+                                            <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-pagesize="@Model.PageSize">@i</a>
+                                        </li>
+
+                                    }
+                                }
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
